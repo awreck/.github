@@ -3,7 +3,7 @@ description: "Questions about license and fair use policies 🎟️"
 title: "[LICENSE]: "
 labels: question
 body:
-  - type: checkbox
+  - type: checkboxes
     id: missing
     attributes:
       label: License missing
