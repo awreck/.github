@@ -7,7 +7,7 @@ body:
     id: missing
     attributes:
       label: License missing
-      description: Is `LICENSE.yml` not present for this repository?
+      description: Is the `LICENSE` file not present for this repository?
       options:
         - label: Yes, it is missing
           required: true
