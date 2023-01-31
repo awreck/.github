@@ -14,7 +14,7 @@ body:
     id: reason
     attributes:
       label: Reason
-      desciption: Mention what exactly you hope to achieve by joining our organization 💭
+      description: Mention what exactly you hope to achieve by joining our organization 💭
       placeholder: To help maintain the organization repos!
     validations:
       required: true
