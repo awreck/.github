@@ -1,0 +1,20 @@
+name: "Add me to the org \U0001F64F"
+about: "Request AWoW moderators to add you to the GitHub Organization so that you
+  can enjoy elevated privileges and permissions \U0001F924"
+title: "[ADD TO ORG]: "
+labels: help wanted
+assignees:
+  - Zo-Bro-23
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please give us a few days to review your request!
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason
+      desciption: Mention what exactly you hope to achieve by joining our organization 💭
+      placeholder: To help maintain the organization repos!
+    validations:
+      required: true
