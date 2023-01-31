@@ -1,0 +1,10 @@
+name: "Miscellaneous issue"
+description: "Any other issue 🔧"
+body:
+  - type: textarea
+    id: Issue
+    attributes:
+      label: issue
+      description: Describe your issue 💭
+    validations:
+      required: true
