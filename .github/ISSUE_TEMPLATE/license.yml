@@ -18,6 +18,6 @@ body:
     attributes:
       label: Further questions
       description: Any other questions you have 💭
-      placeholder: To help maintain the organization repos!
+      placeholder: Can I share the project with my friends?
     validations:
       required: false
